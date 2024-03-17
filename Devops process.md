@@ -1,3 +1,6 @@
+![devops-process](https://github.com/SESUGH-OPS/Card-project/assets/105423735/f07b29be-3a93-429e-acdd-0909f3bf92a6)
+
+
 
 DevOps is a set of practices that aims to automate and integrate the processes of software development and IT operations to improve collaboration, efficiency, and the delivery of high-quality software. The DevOps process typically involves the following stages:
 
